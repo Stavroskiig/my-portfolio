@@ -1,0 +1,29 @@
+.projects {
+    margin-top: 50px;
+  }
+  
+  .project-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .project-item {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    width: 45%;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-item h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .project-item p {
+    font-size: 1em;
+    line-height: 1.5;
+  }
+  
